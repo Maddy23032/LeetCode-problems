@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maddy23032/LeetCode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Maddy23032/LeetCode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Maddy23032/LeetCode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
