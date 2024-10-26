@@ -3,7 +3,6 @@ class Solution:
         s=0
         nums.sort()
         for i in range(k):
-            v=nums[-1]
-            s+=v
-            nums.append(v+1)
+            s+=nums[-1]
+            nums[-1]+=1
         return s    
