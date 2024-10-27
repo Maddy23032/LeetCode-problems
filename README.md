@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maddy23032/LeetCode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Maddy23032/LeetCode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Maddy23032/LeetCode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String
@@ -46,8 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Maddy23032/LeetCode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
