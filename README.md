@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Maddy23032/LeetCode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Maddy23032/LeetCode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
 | ------- |
@@ -82,8 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
