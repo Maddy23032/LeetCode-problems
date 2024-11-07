@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maddy23032/LeetCode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Maddy23032/LeetCode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Maddy23032/LeetCode-problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
@@ -91,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/3291-find-if-array-can-be-sorted) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
