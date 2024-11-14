@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0907-koko-eating-bananas](https://github.com/Maddy23032/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maddy23032/LeetCode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/Maddy23032/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Maddy23032/LeetCode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Maddy23032/LeetCode-problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
