@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Maddy23032/LeetCode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Maddy23032/LeetCode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Maddy23032/LeetCode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Maddy23032/LeetCode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
