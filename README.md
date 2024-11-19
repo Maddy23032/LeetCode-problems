@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Maddy23032/LeetCode-problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Maddy23032/LeetCode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Maddy23032/LeetCode-problems/tree/master/2716-prime-subtraction-operation) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Maddy23032/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Maddy23032/LeetCode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Queue
 |  |
