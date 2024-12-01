@@ -1,11 +1,17 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        seen = set()
+        count = {}
+
+        # Count occurrences of each number
         for num in arr:
-            # Check if 2 * num or num / 2 exists in the set
-            if 2 * num in seen or (num % 2 == 0 and num // 2 in seen):
+            count[num] = count.get(num, 0) + 1
+
+        for num in arr:
+            # Check for double
+            if num != 0 and 2 * num in count:
                 return True
-            # Add the current number to the set
-            seen.add(num)
-        # No valid pair found
+            # Handle zero case (ensure there are at least two zeros)
+            if num == 0 and count[num] > 1:
+                return True
+
         return False
