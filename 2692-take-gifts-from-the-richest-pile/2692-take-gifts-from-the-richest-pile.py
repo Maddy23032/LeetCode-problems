@@ -1,15 +1,20 @@
-import math
 class Solution:
-    def pickGifts(self, gifts: List[int], k: int) -> int:
-        for i in range(k):
-            a=gifts[0]
-            ind=0
-            for j in range(1,len(gifts)):
-                if gifts[j]>=a:
-                    ind=j
-                    a=gifts[j]
-            gifts[ind]=math.floor(gifts[ind]**(1/2))
-        s=0
-        for i in gifts:
-            s+=i
-        return s        
+    def pickGifts(self, gifts, k):
+        # Create a max-heap from the 'gifts' array (negating values to simulate max-heap)
+        gifts_heap = [-gift for gift in gifts]
+        heapq.heapify(gifts_heap)
+
+        # Perform the operation 'k' times
+        for _ in range(k):
+            # Get the maximum element from the heap (top element)
+            max_element = -heapq.heappop(gifts_heap)
+
+            # Insert the floor of the square root of the maximum element back into the heap
+            heapq.heappush(gifts_heap, -math.floor(math.sqrt(max_element)))
+
+        # Accumulate the sum of the elements in the heap
+        number_of_remaining_gifts = 0
+        while gifts_heap:
+            number_of_remaining_gifts -= heapq.heappop(gifts_heap)
+
+        return number_of_remaining_gifts
