@@ -1,3 +1,24 @@
+# class Solution:
+#     def findScore(self, nums: List[int]) -> int:
+#         score=0
+#         while len(nums)!=0:
+#             mi,ind=float('inf'),0
+#             for i in range(0,len(nums)):
+#                 if nums[i]<mi:
+#                     mi=nums[i]
+#                     ind=i
+#             score+=nums[ind]        
+#             if ind-1>=0 and ind+1<len(nums):
+#                 nums.remove(nums[:ind-1]
+#                 nums[ind+2:]
+#             elif ind-1>=0 and ind+1==len(nums):
+#                 nums1=nums[:ind-1]
+#                 nums2=nums[ind+1:]
+#             elif ind+1<len(nums) and ind-1==0:
+#                 nums1=nums[:ind]
+#                 nums2=nums[ind+2:]
+#             nums=nums1+nums2   
+#         return score 
 class Solution:
     def findScore(self, nums):
         ans = 0
@@ -18,4 +39,4 @@ class Solution:
                 if index + 1 < len(nums):
                     marked[index + 1] = True
 
-        return ans
+        return ans               
