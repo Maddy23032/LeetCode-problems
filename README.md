@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Maddy23032/LeetCode-problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Maddy23032/LeetCode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Maddy23032/LeetCode-problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maddy23032/LeetCode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/2201-valid-arrangement-of-pairs) |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Maddy23032/LeetCode-problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Maddy23032/LeetCode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Array
