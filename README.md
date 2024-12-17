@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Maddy23032/LeetCode-problems/tree/master/0617-merge-two-binary-trees) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Maddy23032/LeetCode-problems/tree/master/0617-merge-two-binary-trees) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0485-max-consecutive-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0787-sliding-puzzle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/2868-continuous-subarrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
