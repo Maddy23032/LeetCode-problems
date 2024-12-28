@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0485-max-consecutive-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Maddy23032/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
