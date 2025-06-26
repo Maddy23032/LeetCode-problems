@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Maddy23032/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0952-word-subsets) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/Maddy23032/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
