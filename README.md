@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Maddy23032/LeetCode-problems/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Maddy23032/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maddy23032/LeetCode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Maddy23032/LeetCode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Maddy23032/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Maddy23032/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0141-linked-list-cycle) |
