@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maddy23032/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [0583-delete-operation-for-two-strings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0952-word-subsets) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Maddy23032/LeetCode-problems/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Maddy23032/LeetCode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Maddy23032/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Maddy23032/LeetCode-problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Maddy23032/LeetCode-problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maddy23032/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Maddy23032/LeetCode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
