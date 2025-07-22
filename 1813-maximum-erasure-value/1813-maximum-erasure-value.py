@@ -1,19 +1,18 @@
 class Solution:
     def maximumUniqueSubarray(self, nums: List[int]) -> int:
+        seen = set()
         maxscore = 0
-        su = 0
-        hm = {}
-        i = 0
-        j = 0
+        left = 0
+        curr_sum = 0
 
-        while j < len(nums):
-            if nums[j] in hm and hm[nums[j]] >= i:
-                i = hm[nums[j]] + 1  
-                su = sum(nums[i:j+1]) 
-            else:
-                su += nums[j]
-                maxscore = max(maxscore, su)
-            hm[nums[j]] = j
-            j += 1
+        for right in range(len(nums)):
+            while nums[right] in seen:
+                seen.remove(nums[left])
+                curr_sum -= nums[left]
+                left += 1
+
+            seen.add(nums[right])
+            curr_sum += nums[right]
+            maxscore = max(maxscore, curr_sum)
 
         return maxscore
