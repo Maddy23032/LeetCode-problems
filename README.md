@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Maddy23032/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Maddy23032/LeetCode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/Maddy23032/LeetCode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Maddy23032/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Maddy23032/LeetCode-problems/tree/master/0854-making-a-large-island) |
