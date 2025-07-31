@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Maddy23032/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Maddy23032/LeetCode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Maddy23032/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Maddy23032/LeetCode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Maddy23032/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Maddy23032/LeetCode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Maddy23032/LeetCode-problems/tree/master/0136-single-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/Maddy23032/LeetCode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Maddy23032/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
