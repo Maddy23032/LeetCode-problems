@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Maddy23032/LeetCode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Maddy23032/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Maddy23032/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Maddy23032/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Maddy23032/LeetCode-problems/tree/master/0854-making-a-large-island) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Maddy23032/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/Maddy23032/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Maddy23032/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Maddy23032/LeetCode-problems/tree/master/0854-making-a-large-island) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Maddy23032/LeetCode-problems/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Maddy23032/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Maddy23032/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Maddy23032/LeetCode-problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/Maddy23032/LeetCode-problems/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Maddy23032/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Maddy23032/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Maddy23032/LeetCode-problems/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Maddy23032/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
