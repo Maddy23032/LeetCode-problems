@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Maddy23032/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Maddy23032/LeetCode-problems/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/Maddy23032/LeetCode-problems/tree/master/0228-summary-ranges) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Maddy23032/LeetCode-problems/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
