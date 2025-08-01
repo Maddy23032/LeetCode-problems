@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Maddy23032/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Maddy23032/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Maddy23032/LeetCode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Maddy23032/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Maddy23032/LeetCode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Maddy23032/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Maddy23032/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Maddy23032/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Maddy23032/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Maddy23032/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Maddy23032/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Maddy23032/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
