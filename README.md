@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Maddy23032/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/Maddy23032/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0952-word-subsets) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Maddy23032/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Maddy23032/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0210-course-schedule-ii) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Maddy23032/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Maddy23032/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
