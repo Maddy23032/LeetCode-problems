@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Maddy23032/LeetCode-problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Maddy23032/LeetCode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Maddy23032/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Maddy23032/LeetCode-problems/tree/master/0050-powx-n) |
 ## Brainteaser
 |  |
 | ------- |
