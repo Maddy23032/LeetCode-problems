@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Maddy23032/LeetCode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Maddy23032/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Maddy23032/LeetCode-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Maddy23032/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
+| [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -751,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Maddy23032/LeetCode-problems/tree/master/1300-critical-connections-in-a-network) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
