@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Maddy23032/LeetCode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Maddy23032/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Maddy23032/LeetCode-problems/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/Maddy23032/LeetCode-problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maddy23032/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Combinatorics
