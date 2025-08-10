@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Maddy23032/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0721-accounts-merge](https://github.com/Maddy23032/LeetCode-problems/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maddy23032/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0952-word-subsets) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0018-4sum) |
 | [0721-accounts-merge](https://github.com/Maddy23032/LeetCode-problems/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Maddy23032/LeetCode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Maddy23032/LeetCode-problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Maddy23032/LeetCode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/Maddy23032/LeetCode-problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Maddy23032/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Maddy23032/LeetCode-problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Maddy23032/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -770,4 +774,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
