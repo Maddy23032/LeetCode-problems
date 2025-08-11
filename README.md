@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Maddy23032/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Maddy23032/LeetCode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Maddy23032/LeetCode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Maddy23032/LeetCode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Maddy23032/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Maddy23032/LeetCode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Maddy23032/LeetCode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Maddy23032/LeetCode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Maddy23032/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Maddy23032/LeetCode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Maddy23032/LeetCode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/2465-shifting-letters-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/Maddy23032/LeetCode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Maddy23032/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
