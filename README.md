@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Maddy23032/LeetCode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Maddy23032/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Maddy23032/LeetCode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Maddy23032/LeetCode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Maddy23032/LeetCode-problems/tree/master/0326-power-of-three) |
 ## Brainteaser
 |  |
 | ------- |
