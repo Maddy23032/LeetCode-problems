@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Maddy23032/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maddy23032/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0118-pascals-triangle) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Maddy23032/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Maddy23032/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
