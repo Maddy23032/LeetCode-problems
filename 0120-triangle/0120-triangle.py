@@ -1,17 +1,18 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
         n=len(triangle)
-        dp=[[-1 for _ in range(n)] for _ in range(n)]
+        prev=[0 for _ in range(n)]
         for i in range(n):
-            dp[n-1][i]=triangle[n-1][i]
+            prev[i]=triangle[n-1][i]
         
         for i in range(n-2,-1,-1):
+            cur=[0 for _ in range(n)]
             for j in range(i,-1,-1):
-                d=triangle[i][j]+dp[i+1][j]
-                dg=triangle[i][j]+dp[i+1][j+1]
-                dp[i][j]=min(d,dg)
-
-        return dp[0][0]
+                d=triangle[i][j]+prev[j]
+                dg=triangle[i][j]+prev[j+1]
+                cur[j]=min(d,dg)
+            prev=cur
+        return prev[0]
 #         n=len(triangle)
 #         def uniqP(a,b,triangle,dp):
 #             nonlocal n
