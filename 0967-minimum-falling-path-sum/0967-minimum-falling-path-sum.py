@@ -22,20 +22,21 @@ class Solution:
 
         # minpath=float('inf')
         n, m = len(matrix), len(matrix[0])
-        dp = [[0 for _ in range(m)] for _ in range(n)]
+        prev = [0 for _ in range(m)]
 
         for j in range(m):
-            dp[n-1][j] = matrix[n-1][j]
+            prev[j] = matrix[n-1][j]
 
         for i in range(n-2, -1, -1):
+            cur=[0 for _ in range(m)]
             for j in range(m):
                 curr = matrix[i][j]
-                fp = dp[i+1][j-1] if j > 0 else float('inf')
-                sp = dp[i+1][j]
-                tp = dp[i+1][j+1] if j < m-1 else float('inf')
-                dp[i][j] = curr + min(fp, sp, tp)
-
-        return min(dp[0])
+                fp = prev[j-1] if j > 0 else float('inf')
+                sp = prev[j]
+                tp = prev[j+1] if j < m-1 else float('inf')
+                cur[j] = curr + min(fp, sp, tp)
+            prev=cur
+        return min(prev)
         # for i in range(len(matrix[0])):
         #     minpath=min(minpath,uniqP(0,i,matrix))
 
