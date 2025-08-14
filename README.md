@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0952-word-subsets) |
+| [0967-minimum-falling-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Maddy23032/LeetCode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Maddy23032/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Maddy23032/LeetCode-problems/tree/master/1073-number-of-enclaves) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0967-minimum-falling-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Maddy23032/LeetCode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Maddy23032/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Maddy23032/LeetCode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Maddy23032/LeetCode-problems/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/Maddy23032/LeetCode-problems/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Maddy23032/LeetCode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
