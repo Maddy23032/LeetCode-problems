@@ -1,5 +1,17 @@
-# class Solution:
-#     def minimumTotal(self, triangle: List[List[int]]) -> int:
+class Solution:
+    def minimumTotal(self, triangle: List[List[int]]) -> int:
+        n=len(triangle)
+        dp=[[-1 for _ in range(n)] for _ in range(n)]
+        for i in range(n):
+            dp[n-1][i]=triangle[n-1][i]
+        
+        for i in range(n-2,-1,-1):
+            for j in range(i,-1,-1):
+                d=triangle[i][j]+dp[i+1][j]
+                dg=triangle[i][j]+dp[i+1][j+1]
+                dp[i][j]=min(d,dg)
+
+        return dp[0][0]
 #         n=len(triangle)
 #         def uniqP(a,b,triangle,dp):
 #             nonlocal n
@@ -16,15 +28,15 @@
 #         dp=[[-1 for _ in range(n)] for _ in range(n)]
 #         return uniqP(0,0,triangle,dp)
 
-def recursion(l,x,y,ans,memo):
-    if x>=len(l):
-        return 0
-    if (x,y) in memo:
-        return memo[(x,y)]
-    ans += l[x][y]+min(recursion(l,x+1,y,ans,memo),recursion(l,x+1,y+1,ans,memo))
-    memo[(x, y)] = ans
-    return ans
-class Solution:
-    def minimumTotal(self, triangle: List[List[int]]) -> int:
-        return recursion(triangle,0,0,0,{})
+# def recursion(l,x,y,ans,memo):
+#     if x>=len(l):
+#         return 0
+#     if (x,y) in memo:
+#         return memo[(x,y)]
+#     ans += l[x][y]+min(recursion(l,x+1,y,ans,memo),recursion(l,x+1,y+1,ans,memo))
+#     memo[(x, y)] = ans
+#     return ans
+# class Solution:
+#     def minimumTotal(self, triangle: List[List[int]]) -> int:
+#         return recursion(triangle,0,0,0,{})
         
