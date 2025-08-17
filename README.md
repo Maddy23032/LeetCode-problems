@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Maddy23032/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Maddy23032/LeetCode-problems/tree/master/1025-minimum-cost-for-tickets) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Maddy23032/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Maddy23032/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Maddy23032/LeetCode-problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maddy23032/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Maddy23032/LeetCode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Maddy23032/LeetCode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0867-new-21-game) |
 ## Memoization
 |  |
 | ------- |
