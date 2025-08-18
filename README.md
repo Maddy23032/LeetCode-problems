@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
+| [0679-24-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Maddy23032/LeetCode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/Maddy23032/LeetCode-problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Maddy23032/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Maddy23032/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Maddy23032/LeetCode-problems/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Maddy23032/LeetCode-problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Maddy23032/LeetCode-problems/tree/master/0900-reordered-power-of-2) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0679-24-game) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maddy23032/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Combinatorics
 |  |
