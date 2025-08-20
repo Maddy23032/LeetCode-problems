@@ -1,17 +1,17 @@
+from typing import List
+
 class Solution:
     def countSquares(self, matrix: List[List[int]]) -> int:
-        ROWS, COLS = len (matrix), len(matrix[0])
-        dp = defaultdict(int)
+        rows, cols = len(matrix), len(matrix[0])
+        dp = [[0]*cols for _ in range(rows)]
         res = 0
-        for r in range (ROWS):
-            cur_dp = defaultdict(int)
-            for c in range(COLS):
-                if matrix[r][c]:
-                    cur_dp[c] = 1 + min(
-                        dp[c],
-                        cur_dp[c - 1],
-                        dp[c - 1]
-                    )
-                    res += cur_dp[c]
-            dp = cur_dp
+
+        for i in range(rows):
+            for j in range(cols):
+                if matrix[i][j] == 1:
+                    if i == 0 or j == 0:
+                        dp[i][j] = 1
+                    else:
+                        dp[i][j] = 1 + min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1])
+                    res += dp[i][j]
         return res
