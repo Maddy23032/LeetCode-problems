@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/Maddy23032/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Maddy23032/LeetCode-problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Maddy23032/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0679-24-game) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Maddy23032/LeetCode-problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Maddy23032/LeetCode-problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0787-sliding-puzzle) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Maddy23032/LeetCode-problems/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maddy23032/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Maddy23032/LeetCode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Maddy23032/LeetCode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
