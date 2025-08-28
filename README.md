@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Maddy23032/LeetCode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Maddy23032/LeetCode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Maddy23032/LeetCode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Maddy23032/LeetCode-problems/tree/master/3791-fruits-into-baskets-iii) |
 ## String
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Maddy23032/LeetCode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Maddy23032/LeetCode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Maddy23032/LeetCode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Maddy23032/LeetCode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Maddy23032/LeetCode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Maddy23032/LeetCode-problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Maddy23032/LeetCode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
 | ------- |
