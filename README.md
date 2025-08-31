@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Maddy23032/LeetCode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Maddy23032/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Maddy23032/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maddy23032/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Maddy23032/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0063-unique-paths-ii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maddy23032/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maddy23032/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maddy23032/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Maddy23032/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Maddy23032/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Maddy23032/LeetCode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Maddy23032/LeetCode-problems/tree/master/0141-linked-list-cycle) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Maddy23032/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Maddy23032/LeetCode-problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Maddy23032/LeetCode-problems/tree/master/0679-24-game) |
