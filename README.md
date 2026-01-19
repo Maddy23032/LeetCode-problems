@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Maddy23032/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Maddy23032/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Maddy23032/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Maddy23032/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0064-minimum-path-sum) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maddy23032/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Maddy23032/LeetCode-problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Maddy23032/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Maddy23032/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Maddy23032/LeetCode-problems/tree/master/0130-surrounded-regions) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Maddy23032/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Maddy23032/LeetCode-problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Maddy23032/LeetCode-problems/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maddy23032/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
